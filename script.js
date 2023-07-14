@@ -25,6 +25,8 @@ const renderPokemon = (pokeArr) => {
 }
 
 
+
+//event listeners for links
 const clickingPoke = () => {
   const links = document.querySelectorAll(`#myA`);
     // console.log(links)

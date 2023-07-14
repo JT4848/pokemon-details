@@ -1,0 +1,47 @@
+body{
+  background-image: url(pokemon03.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+li{
+  font-size: 25px;
+}
+
+li:hover{
+  color: aliceblue;
+}
+
+#details{
+  text-align: center;
+  color: azure;
+}
+
+#pokeImg{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+#backButton{
+  text-align: center; 
+}
+
+img{
+  height: 400px;
+  width: 400px;
+}
+button{
+  border-radius: 20%;
+  background-color:rgb(175, 176, 177);
+  height: 60px;
+  width: 60px;
+}
+
+button:hover{
+  color: red;
+  cursor: pointer;
+}
+
+
+
